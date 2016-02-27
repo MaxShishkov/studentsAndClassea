@@ -1,4 +1,4 @@
 studentsAndClass
 ==================
 
-A simple interaction between two classes. A simulation of interaction between Courses and Students. Using pointers as means of interaction.
+A simulation of interaction between Courses and Students written in C++. Demonstrates object oriented programming and use of pointers.
